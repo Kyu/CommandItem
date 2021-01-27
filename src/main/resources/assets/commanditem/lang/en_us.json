@@ -1,0 +1,6 @@
+{
+  "item.commanditem.commanditem": "Command Item",
+  "commandgui.title": "Item Command",
+  "commandgui.command_label": "Command",
+  "commandgui.previousOutput": "Previous Output"
+}
